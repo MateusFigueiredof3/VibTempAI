@@ -1,0 +1,7 @@
+//Código de exemplo
+
+// no loop principal
+while (true) {
+   lerSensores();
+   enviarDados();
+}
